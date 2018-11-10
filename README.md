@@ -21,8 +21,7 @@ Joël Ngana
 
 **Website**: https://www.themix.org.uk/
 
-**Twitter**: [themixUK] (https://twitter.com/themixuk?lang=en)
-
+**Twitter**: [themixUK](https://twitter.com/themixuk)
 
 **Facebook**: [The Mix UK](https://www.facebook.com/TheMixUK/)
 
