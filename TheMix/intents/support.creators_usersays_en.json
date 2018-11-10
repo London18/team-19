@@ -1,0 +1,1089 @@
+[
+  {
+    "id": "f25476c1-7360-4ce0-91c2-a26e5bfc8760",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "575f35ad-e7a5-43aa-8ee1-164a8151db80",
+    "data": [
+      {
+        "text": "who was ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " inventor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd7d28bd-d5df-4624-9bc5-c636e3d7a1cc",
+    "data": [
+      {
+        "text": "so who create you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ecd56ea-efd8-4b2a-9a80-31a5f3f0084c",
+    "data": [
+      {
+        "text": "I want to know who made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a837c5a-1bfc-4fab-a714-c6b5107d104a",
+    "data": [
+      {
+        "text": "what\u0027s the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0eb58a2c-446b-4cf3-b485-00e6bcd215a6",
+    "data": [
+      {
+        "text": "tell me who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "20026751-41a4-4027-b815-7a3a6b7efaca",
+    "data": [
+      {
+        "text": "I said who made you tell me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "963670fc-d870-4375-95dd-6f25060e9911",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa7cfa8f-b399-43ae-9f6a-9f452937adee",
+    "data": [
+      {
+        "text": "can you tell me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9b355268-ac29-4e23-8e8c-e698a5609c36",
+    "data": [
+      {
+        "text": "so who made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "597dd723-939b-4f33-ab47-fcda476b4c89",
+    "data": [
+      {
+        "text": "who built you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05b1c516-15ea-40e8-94a1-2e4fb6922ba4",
+    "data": [
+      {
+        "text": "do you know who made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df18ecc3-7c1b-41d8-b407-7d7f4494a898",
+    "data": [
+      {
+        "text": "so who invented you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9d5aa61-013c-42cc-b3f3-97c5e1098c3d",
+    "data": [
+      {
+        "text": "and who create you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "406002ea-1c61-4e97-b46e-bf4eebe0ec50",
+    "data": [
+      {
+        "text": "can you tell me who created you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92a181cc-99f7-413e-aad3-f8a0503e8476",
+    "data": [
+      {
+        "text": "what company made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1a5adfe-c7cf-45f7-b6ce-f25e75ede027",
+    "data": [
+      {
+        "text": "so who made ",
+        "userDefined": false
+      },
+      {
+        "text": "this application",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48f7ff93-a8d3-4a80-82ea-63125e32fdb0",
+    "data": [
+      {
+        "text": "I want know who made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "675a10bb-da7e-4359-bb9b-81ef92685adf",
+    "data": [
+      {
+        "text": "so who created you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daaeb984-94b2-4989-9f81-aa78424d95e3",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developer name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "13980ff1-7874-41e5-ac61-3767fd6c1143",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " teachers name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eed575e-1503-43fa-906c-efc73b6cc9c4",
+    "data": [
+      {
+        "text": "who created you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c22fccc-5f40-42f9-b48c-4e9b9ea7055d",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " teacher",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cee64458-65d7-4bfe-a951-09ee45e0ff3b",
+    "data": [
+      {
+        "text": "do you know who makes you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5858e455-d992-45b2-978b-3f95ea6d5d86",
+    "data": [
+      {
+        "text": "what\u0027s the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b8eb0c7-2fa9-41bd-ba68-0ad5860f55b3",
+    "data": [
+      {
+        "text": "I said who developed you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b622010-da33-49d8-ae53-594dbc013de5",
+    "data": [
+      {
+        "text": "who did create you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70ac982b-a3d8-42dd-8af4-443b15f314b2",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f8e8c3e0-0a73-43e6-b1d6-f3bfb231b4ec",
+    "data": [
+      {
+        "text": "I want to know the names ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db3efcac-bf55-4093-88af-a525d41dd08c",
+    "data": [
+      {
+        "text": "I said who made ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " program",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "248b9b5a-93c1-4569-9bcd-6487bfe0ee40",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8043611d-2352-4c27-90c6-6256995e085f",
+    "data": [
+      {
+        "text": "do you know who created u",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f662249-709d-4eb0-a033-56796eaaddf8",
+    "data": [
+      {
+        "text": "what\u0027s the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " programmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78c3e5ec-d838-4c01-85ba-6b40d99037d1",
+    "data": [
+      {
+        "text": "so who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89ed1443-4535-4c6e-8821-7e946bfa3645",
+    "data": [
+      {
+        "text": "do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " maker",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f853431-c6e4-455c-a9c0-a54b620cca27",
+    "data": [
+      {
+        "text": "what\u0027s the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f0919f6d-5258-49ae-a16b-f7fd003da808",
+    "data": [
+      {
+        "text": "who invented you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda03803-19ff-476e-bbf5-8e6e0c9b0f79",
+    "data": [
+      {
+        "text": "who made ",
+        "userDefined": false
+      },
+      {
+        "text": "your application",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b15310f9-d9f7-452c-a5cc-3f2f128c6c82",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " makers name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3c0166b-81d5-42b9-b895-7ec3308b9e2e",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48fba7b4-34ea-4917-ab8b-f83f5a727b74",
+    "data": [
+      {
+        "text": "I mean who made ",
+        "userDefined": false
+      },
+      {
+        "text": "this application",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2551e6fd-0227-4d28-9d58-3ee0f626eba5",
+    "data": [
+      {
+        "text": "who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " inventor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a1e409c-5952-47d2-a9b4-54644957c60e",
+    "data": [
+      {
+        "text": "so who is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7359254-64d0-4b10-8d41-bd5b7111a86e",
+    "data": [
+      {
+        "text": "who were ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f129b2a7-cd75-4b9f-a127-b24b5aaa877d",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developers name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efacd782-c928-468e-90f2-fa37bc6f3734",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " inventor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e80c7b15-85e1-4750-a54c-e9db1676ae76",
+    "data": [
+      {
+        "text": "do you know who created you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba0b81ba-aa99-4336-885e-0cd552bea20c",
+    "data": [
+      {
+        "text": "what is the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5403c97d-c92d-4ad6-84be-86d862e32fe6",
+    "data": [
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea8970a8-1a33-470f-b3de-27f1f6c647b9",
+    "data": [
+      {
+        "text": "do you know ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a4ab281-5a97-40b5-98c0-5204f4c9334b",
+    "data": [
+      {
+        "text": "who",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " programmer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba51be53-ca51-43db-9bae-d46535b19bf0",
+    "data": [
+      {
+        "text": "what is the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " developers",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1fd2ab5a-d780-4bb7-ac1c-e45be5f61f36",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator\u0027s name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61f62dc7-2460-4975-93e6-c9087853e5d4",
+    "data": [
+      {
+        "text": "and who created you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a419032-aca8-4302-8e58-45efe7a4efe1",
+    "data": [
+      {
+        "text": "who was ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " founder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c09f7461-040f-4376-b34a-793dccf39c24",
+    "data": [
+      {
+        "text": "I said who ",
+        "userDefined": false
+      },
+      {
+        "text": "are",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creators",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d4f15d6-7807-40ff-a487-03263314305b",
+    "data": [
+      {
+        "text": "what is the name ",
+        "userDefined": false
+      },
+      {
+        "text": "of",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "your",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " creator",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "091542e6-edcd-47fb-b5e8-4685aeaa8310",
+    "data": [
+      {
+        "text": "who made you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

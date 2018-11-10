@@ -1,0 +1,34 @@
+{
+  "id": "f53c566b-5d39-4dcd-a59f-9c78ba2eb1ef",
+  "parentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "rootParentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "name": "support.query.mental.health.forum",
+  "auto": true,
+  "contexts": [
+    "supportquerymentalhealth-followup",
+    "MentalHealth-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "supportquerymentalhealth.supportquerymentalhealth-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here is a link to where you can talk to people about your situation https://community.themix.org.uk/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541831087,
+  "fallbackIntent": false,
+  "events": []
+}

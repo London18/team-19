@@ -1,0 +1,47 @@
+{
+  "id": "1cf5b92d-0369-46a5-96e3-1dd855a58983",
+  "name": "support.feedback",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.feedback",
+      "affectedContexts": [
+        {
+          "name": "support-feedback",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7b98a2f8-6075-4906-a616-ba7606384827",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "message",
+          "value": "$message",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hey check [https://www.themix.org.uk/about-us/contact-us](here) if you want to write a feedback!",
+            "Noted! Thank you and I will always keep improving!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541826521,
+  "fallbackIntent": false,
+  "events": []
+}

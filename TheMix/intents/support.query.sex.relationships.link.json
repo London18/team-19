@@ -1,0 +1,33 @@
+{
+  "id": "4a165fd5-2cc8-4d86-9804-a95faf2168d2",
+  "parentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
+  "rootParentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
+  "name": "support.query.sex.relationships.link",
+  "auto": true,
+  "contexts": [
+    "supportquerysexrelationships-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "supportquerysexrelationships.supportquerysexrelationships-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hey, here is the link to the \"sex and relationships\" section of our website : https://www.themix.org.uk/sex-and-relationships"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541831580,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "138211dc-7e07-4775-9153-f42e4b1269d9",
+    "data": [
+      {
+        "text": "is there anyone I can talk to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831392
+  },
+  {
+    "id": "3fcc9918-0f25-4e56-8689-79758887c0be",
+    "data": [
+      {
+        "text": "can i speak to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831392
+  },
+  {
+    "id": "dcffb3e3-8aa4-41c7-adfd-8addc83ab05f",
+    "data": [
+      {
+        "text": "I need advice from a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831392
+  },
+  {
+    "id": "57a74334-94b0-4348-a4f3-6fa549e3a376",
+    "data": [
+      {
+        "text": "I want to disclose some private information with someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831392
+  },
+  {
+    "id": "a7f5abd5-b7ca-41b6-babe-31357020384b",
+    "data": [
+      {
+        "text": "I need to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831392
+  },
+  {
+    "id": "3fdd6431-dd27-450f-9b1f-5957050fc1b3",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " chat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831243
+  },
+  {
+    "id": "58eba376-5c2f-45af-879c-05196ca46ff7",
+    "data": [
+      {
+        "text": "Real person please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831243
+  },
+  {
+    "id": "269a28e7-7e17-47c3-9d62-09fbbe0b300e",
+    "data": [
+      {
+        "text": "I want to talk to a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541831243
+  },
+  {
+    "id": "6187f21c-a016-4829-a91b-77a7618125b2",
+    "data": [
+      {
+        "text": "I want 1 to 1 support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541828499
+  }
+]

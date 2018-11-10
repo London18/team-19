@@ -1,0 +1,29 @@
+{
+  "id": "aa0c6923-d556-4ff5-abe4-86892e6f3831",
+  "name": "support.creators",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.creators",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hey, I am Patrick and we are Team-19 of the JP Morgan Code for good. We are the creators of this chatbot. Hope you like it!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541825363,
+  "fallbackIntent": false,
+  "events": []
+}

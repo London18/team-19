@@ -1,0 +1,158 @@
+[
+  {
+    "id": "7deb20a9-960f-481e-865a-a30796727710",
+    "data": [
+      {
+        "text": "can i speak one to one to someone possibly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541830857
+  },
+  {
+    "id": "65ff56ae-4332-4ebf-a11a-cd7b2edaf7d0",
+    "data": [
+      {
+        "text": "I NEED TO TALK TO SOMEONE PLEAAAAASE!!!!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541830857
+  },
+  {
+    "id": "f7d1ebea-99c9-443e-a488-abd86f180571",
+    "data": [
+      {
+        "text": "counselling please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541830857
+  },
+  {
+    "id": "73395145-8bb9-4ca6-be50-e3f65c8e5dcc",
+    "data": [
+      {
+        "text": "How do I sign up to be counselled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541830857
+  },
+  {
+    "id": "bc3efb62-67f5-4a0c-a397-54083736a466",
+    "data": [
+      {
+        "text": "I want to be counselled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541830857
+  },
+  {
+    "id": "7c4d2c8a-d4ce-4931-a5a9-da44d4af11c7",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " help is needed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541828194
+  },
+  {
+    "id": "943e33b9-3863-4d25-b500-f7e2e37c014d",
+    "data": [
+      {
+        "text": "I want to talk to a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541828194
+  },
+  {
+    "id": "7d7664f1-3777-4239-883c-9918c79cec20",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " to ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541828194
+  },
+  {
+    "id": "7cfaaa9f-dd7c-4400-adf6-6e9f84ef5247",
+    "data": [
+      {
+        "text": "I want to talk to a person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541827001
+  },
+  {
+    "id": "4d8cceab-d136-4be5-bc1f-77d9b3e55031",
+    "data": [
+      {
+        "text": "Support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541827001
+  }
+]

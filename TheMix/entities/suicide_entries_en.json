@@ -1,0 +1,18 @@
+[
+  {
+    "value": "suicide",
+    "synonyms": [
+      "suicide",
+      "suicidal",
+      "end my life",
+      "kill myself",
+      "pull the plug"
+    ]
+  },
+  {
+    "value": "suicidal",
+    "synonyms": [
+      "suicidal"
+    ]
+  }
+]

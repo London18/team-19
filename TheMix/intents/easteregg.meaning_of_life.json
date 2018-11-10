@@ -1,0 +1,32 @@
+{
+  "id": "e6f7a96d-35ec-4192-9258-8957b71b1ebe",
+  "name": "easteregg.meaning_of_life",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "easteregg.meaning_of_life",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "\"To spend it for something that will outlast it.\" John Cook (2007). The Book of Positive Quotations.",
+            "42. Just 42."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1481147032,
+  "fallbackIntent": false,
+  "events": []
+}

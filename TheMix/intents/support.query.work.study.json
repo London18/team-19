@@ -1,0 +1,45 @@
+{
+  "id": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "name": "support.query.work.study",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c819bcd3-1094-483e-9101-27aef9bd4571",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "isList": false
+        },
+        {
+          "id": "e761298b-1ac9-48f4-bb99-f2527f367aa6",
+          "required": false,
+          "dataType": "@sys.duration",
+          "name": "duration",
+          "value": "$duration",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Visit Work and Study Section"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541824982,
+  "fallbackIntent": false,
+  "events": []
+}

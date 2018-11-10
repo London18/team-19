@@ -1,0 +1,57 @@
+{
+  "id": "802bc2d8-ad7f-41b0-9ec4-a3739dd72c12",
+  "name": "support.live_agent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.live_agent",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74084d5e-57fd-4cf9-9964-ae234e0971fc",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "details",
+          "value": "$details",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you give me some more details of your issue?"
+            },
+            {
+              "lang": "en",
+              "value": "Tell me more, so our support team can give you the best answer."
+            },
+            {
+              "lang": "en",
+              "value": "Please, elaborate on the issue, so support team can help you."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Thanks for the information! We will connect you to a 1 to 1 service shortly after.",
+            "You are queuing for personal support! Please hold..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541830816,
+  "fallbackIntent": false,
+  "events": []
+}

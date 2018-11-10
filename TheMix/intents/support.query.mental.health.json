@@ -1,0 +1,113 @@
+{
+  "id": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "name": "support.query.mental.health",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "MentalHealth-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "supportquerymentalhealth-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "86ed2956-4fce-4171-a3bf-1ab811f96ff2",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        },
+        {
+          "id": "1a96a11c-168a-4768-8cd1-1da21486e1ef",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal",
+          "isList": false
+        },
+        {
+          "id": "bd0177c1-d703-4e86-8c0e-91e0555e39b9",
+          "required": false,
+          "dataType": "@depressed",
+          "name": "depressed",
+          "value": "$depressed",
+          "prompts": [],
+          "isList": false
+        },
+        {
+          "id": "28104204-533e-4a6f-83f2-a5820afc6808",
+          "required": false,
+          "dataType": "@suicide",
+          "name": "suicide",
+          "value": "$suicide",
+          "isList": false
+        },
+        {
+          "id": "dc540983-d69e-4d21-a445-3ad8a07182c6",
+          "required": false,
+          "dataType": "@mental-issues",
+          "name": "mental-issues",
+          "value": "$mental-issues",
+          "isList": false
+        },
+        {
+          "id": "78c4fea8-9d53-4ea3-a8fd-bbd6c4604676",
+          "required": false,
+          "dataType": "@hopeless",
+          "name": "hopeless",
+          "value": "$hopeless",
+          "isList": false
+        },
+        {
+          "id": "b293d2b3-5eb6-4aba-bb2d-25a0b4271044",
+          "required": false,
+          "dataType": "@anxiety",
+          "name": "anxiety",
+          "value": "$anxiety",
+          "isList": false
+        },
+        {
+          "id": "13ce9b91-710e-4d7b-b9b9-8469e1053666",
+          "required": false,
+          "dataType": "@self-esteem",
+          "name": "self-esteem",
+          "value": "$self-esteem",
+          "isList": false
+        },
+        {
+          "id": "554b62d3-c27d-4687-a596-96e1137459d6",
+          "required": false,
+          "dataType": "@confused",
+          "name": "confused",
+          "value": "$confused",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "This sounds like a mental health issue. How do you want to get help?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541827636,
+  "fallbackIntent": false,
+  "events": []
+}

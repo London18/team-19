@@ -1,0 +1,33 @@
+{
+  "id": "3ffb6fbd-2c8a-48ea-a938-7544898e1898",
+  "parentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
+  "rootParentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
+  "name": "support.query.sex.relationships.support",
+  "auto": true,
+  "contexts": [
+    "supportquerysexrelationships-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "supportquerysexrelationships.supportquerysexrelationships-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541831392,
+  "fallbackIntent": false,
+  "events": []
+}

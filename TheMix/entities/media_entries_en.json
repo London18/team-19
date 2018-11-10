@@ -1,0 +1,108 @@
+[
+  {
+    "value": "Google+",
+    "synonyms": [
+      "google",
+      "google+",
+      "google plus"
+    ]
+  },
+  {
+    "value": "Pinterest",
+    "synonyms": [
+      "Pinterest"
+    ]
+  },
+  {
+    "value": "YouTube",
+    "synonyms": [
+      "YouTube"
+    ]
+  },
+  {
+    "value": "Facebook",
+    "synonyms": [
+      "facebook",
+      "fb"
+    ]
+  },
+  {
+    "value": "Twitter",
+    "synonyms": [
+      "twitter"
+    ]
+  },
+  {
+    "value": "ClassMates",
+    "synonyms": [
+      "ClassMates"
+    ]
+  },
+  {
+    "value": "VK",
+    "synonyms": [
+      "VK"
+    ]
+  },
+  {
+    "value": "Reddit",
+    "synonyms": [
+      "Reddit"
+    ]
+  },
+  {
+    "value": "LinkedIn",
+    "synonyms": [
+      "LinkedIn"
+    ]
+  },
+  {
+    "value": "Instagram",
+    "synonyms": [
+      "instagram"
+    ]
+  },
+  {
+    "value": "Ask.fm",
+    "synonyms": [
+      "Ask.fm",
+      "askfm"
+    ]
+  },
+  {
+    "value": "Meetup",
+    "synonyms": [
+      "Meetup"
+    ]
+  },
+  {
+    "value": "Vine",
+    "synonyms": [
+      "Vine"
+    ]
+  },
+  {
+    "value": "Flickr",
+    "synonyms": [
+      "Flickr"
+    ]
+  },
+  {
+    "value": "Myspace",
+    "synonyms": [
+      "Myspace"
+    ]
+  },
+  {
+    "value": "LiveJournal",
+    "synonyms": [
+      "LiveJournal"
+    ]
+  },
+  {
+    "value": "Tumblr",
+    "synonyms": [
+      "Tumblr"
+    ]
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "value": "depressed",
+    "synonyms": [
+      "depressed",
+      "sad",
+      "alone",
+      "lonely",
+      "meaningless",
+      "worthless"
+    ]
+  },
+  {
+    "value": "depression",
+    "synonyms": [
+      "depression"
+    ]
+  }
+]

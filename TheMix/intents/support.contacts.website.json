@@ -1,0 +1,57 @@
+{
+  "id": "49942010-9b5a-43a4-9f33-ac45b5c84ad0",
+  "name": "support.contacts.website",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "support.contacts.website",
+      "affectedContexts": [
+        {
+          "name": "support-contacts",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "76fd7e9e-dfbf-4e50-9d3e-53f0f961d736",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "search",
+          "value": "$search",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What do you want search?"
+            },
+            {
+              "lang": "en",
+              "value": "Is there anything in particular you are interested in?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Website is right here at : [https://www.themix.org.uk/?s\u003d$search](MIX)",
+            "[https://www.themix.org.uk?s\u003d$search](MIX). Talk to me and we can figure out your issue better?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541826320,
+  "fallbackIntent": false,
+  "events": []
+}

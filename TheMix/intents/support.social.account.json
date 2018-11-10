@@ -1,0 +1,32 @@
+{
+  "id": "d0b1f1dc-f75f-4aa3-9f7a-3527220f185e",
+  "name": "support.social.account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Check this out: Youtube- https://www.youtube.com/inthemixuk, Instagram- https://www.instagram.com/themixuk/, Facebook- https://www.facebook.com/TheMixUK, LinkedIn- https://www.linkedin.com/company/the-mix-charity/, Twitter- https://twitter.com/themixUK"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true,
+        "telephony": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541824903,
+  "fallbackIntent": false,
+  "events": []
+}
