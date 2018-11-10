@@ -64,6 +64,6 @@ npm install
 node ./bin/www
 ```
 
-NB: Make sure you have the `api.js` file under `./api/` in private chat or the program wouldn't work!
+NB: Make sure you have the `api.js` file under `./api/` in private chat or the program will not work!
 
 
