@@ -11,7 +11,7 @@ George Tillo
 
 Joël Ngana
 
-[Paulina](https://github.com/Pkulyte)
+[Paulina Kulyte](https://github.com/Pkulyte)
 
 ## THE MIX
 
