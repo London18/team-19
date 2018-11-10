@@ -11,7 +11,7 @@ Ashley
 
 Joel
 
-Paulina
+[Paulina](https://github.com/Pkulyte)
 
 ## Team Project
 Help `THE MIX`, a non-govermental organisation build a chatbot.
