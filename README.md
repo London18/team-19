@@ -15,6 +15,8 @@ Joël Ngana
 
 ## THE MIX
 
+![alt text](https://external.massively.ai/wc_themixv1/img/themixlogo.png)
+
 **Organization**:  The Mix
 
 **Website**: https://www.themix.org.uk/
