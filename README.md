@@ -2,10 +2,15 @@
 
 ## Team Members
 [Daiqi (Patrick) Wu](https://wudaiqi.com)
+
 Shaun
+
 George
+
 Ashley
+
 Joel
+
 Paulina
 
 ## Team Project
