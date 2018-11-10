@@ -29,6 +29,13 @@
           "name": "duration",
           "value": "$duration",
           "isList": false
+        },
+        {
+          "id": "60a773f7-9540-414e-ae09-c1c647046648",
+          "dataType": "@interview",
+          "name": "interview",
+          "value": "$interview",
+          "isList": false
         }
       ],
       "messages": [
@@ -45,7 +52,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541834473,
+  "lastUpdate": 1541845998,
   "fallbackIntent": false,
   "events": []
 }

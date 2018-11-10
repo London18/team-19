@@ -18,15 +18,7 @@
           "lifespan": 2
         }
       ],
-      "parameters": [
-        {
-          "id": "252cfe72-68a3-4f57-9570-535b2b8f98c3",
-          "dataType": "@university",
-          "name": "university",
-          "value": "$university",
-          "isList": false
-        }
-      ],
+      "parameters": [],
       "messages": [
         {
           "type": 0,
@@ -41,7 +33,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541832794,
+  "lastUpdate": 1541849114,
   "fallbackIntent": false,
   "events": []
 }
