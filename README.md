@@ -9,7 +9,7 @@ George Tillo
 
 [Ashly Lau](https://ashlylau.github.io)
 
-Joël Ngana
+[Joël Ngana] (https://github.com/jnm1g16)
 
 [Paulina Kulyte](https://github.com/Pkulyte)
 
