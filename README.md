@@ -55,4 +55,15 @@ This application can be delivered in the form you think appropriate: be that a w
 
 To help you create an innovative application; Amazon Web Services, Google’s various cloud APIs, IBM Watson, Azure, or other providers can be leveraged. You should investigate the various chat-bot and smart-device offerings available and what meaningful learning they can provide based on previous intent – for example Workplace by Facebook, Facebook Messenger bots and Apple Business Chat could all provide valuable research as well as Amazon Alexa or Google voice APIs where you can leverage test environments.
 
+## How to Use this Project
+
+```
+git clone https://github.com/London18/team-19
+cd team-19
+npm install
+node ./bin/www
+```
+
+NB: Make sure you have the `api.js` file under `./api/` in private chat or the program wouldn't work!
+
 
