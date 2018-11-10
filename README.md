@@ -9,7 +9,7 @@ George
 
 Ashley
 
-Joel
+Joël Ngana
 
 [Paulina](https://github.com/Pkulyte)
 
