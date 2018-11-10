@@ -5,7 +5,7 @@
 
 Shawn Tan
 
-George
+George Tillo
 
 [Ashly Lau](https://ashlylau.github.io)
 
