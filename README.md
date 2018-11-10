@@ -3,7 +3,7 @@
 ## Team Members
 [Daiqi (Patrick) Wu](https://wudaiqi.com)
 
-Shawn Tan
+Shawn Tan(https://github.com/craycrayfish)
 
 George Tillo
 
