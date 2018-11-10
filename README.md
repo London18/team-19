@@ -21,12 +21,12 @@ Joël Ngana
 
 **Website**: https://www.themix.org.uk/
 
-**Twitter**: @themixUK
+**Twitter**: [@themixUK] (https://twitter.com/themixuk?lang=en)
 
 
-**Facebook**: The Mix UK
+**Facebook**: [The Mix UK](https://www.facebook.com/TheMixUK/)
 
-**Instagram**: themixuk
+**Instagram**: [themixuk](https://www.instagram.com/themixuk/?hl=en)
 
 ## Context
 
