@@ -3,15 +3,15 @@
 ## Team Members
 [Daiqi (Patrick) Wu](https://wudaiqi.com)
 
-Shaun
+Shawn Tan
 
 George
 
-Ashley
+[Ashly Lau](https://ashlylau.github.io)
 
-Joel
+Joël Ngana
 
-Paulina
+[Paulina](https://github.com/Pkulyte)
 
 ## Team Project
 Help `THE MIX`, a non-govermental organisation build a chatbot.
