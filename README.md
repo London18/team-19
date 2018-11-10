@@ -3,11 +3,11 @@
 ## Team Members
 [Daiqi (Patrick) Wu](https://wudaiqi.com)
 
-Shaun
+Shawn Tan
 
 George
 
-Ashley
+[Ashly Lau](https://ashlylau.github.io)
 
 Joël Ngana
 
