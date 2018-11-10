@@ -1,14 +1,15 @@
 {
-  "id": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "name": "support.query.sex.relationships",
+  "id": "84b1d4c7-0ad5-4629-9d83-8c7c96788333",
+  "name": "support.contacts.email",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
+      "action": "support.contacts.email",
       "affectedContexts": [
         {
-          "name": "supportquerysexrelationships-followup",
+          "name": "support-contacts",
           "parameters": {},
           "lifespan": 2
         }
@@ -18,7 +19,10 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Sounds like you have some issues with your relationships, how do you want to get help?"
+          "speech": [
+            "Hey, send us a email at support@themix.org.uk",
+            "Email us at support@themix.org.uk"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541839420,
+  "lastUpdate": 1541835011,
   "fallbackIntent": false,
   "events": []
 }

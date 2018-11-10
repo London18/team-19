@@ -1,0 +1,47 @@
+{
+  "id": "36105e31-4aea-4fb7-81f0-161518f31a2f",
+  "parentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "rootParentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "name": "support.query.work.study.link",
+  "auto": true,
+  "contexts": [
+    "supportqueryworkstudy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "supportqueryworkstudy.supportqueryworkstudy-custom",
+      "affectedContexts": [
+        {
+          "name": "supportqueryworkstudylink-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "252cfe72-68a3-4f57-9570-535b2b8f98c3",
+          "dataType": "@university",
+          "name": "university",
+          "value": "$university",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Hi there! Visit our work and studies page. We\u0027ve got a bunch of useful information just for you! https://www.themix.org.uk/work-and-study"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541832794,
+  "fallbackIntent": false,
+  "events": []
+}

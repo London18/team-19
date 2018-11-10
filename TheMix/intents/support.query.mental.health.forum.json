@@ -1,7 +1,7 @@
 {
-  "id": "f53c566b-5d39-4dcd-a59f-9c78ba2eb1ef",
-  "parentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
-  "rootParentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "id": "d61dfc99-e902-456b-b3d8-6bf1805f44df",
+  "parentId": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
+  "rootParentId": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
   "name": "support.query.mental.health.forum",
   "auto": true,
   "contexts": [
@@ -11,14 +11,14 @@
   "responses": [
     {
       "resetContexts": false,
-      "action": "supportquerymentalhealth.supportquerymentalhealth-custom",
+      "action": "supportquerymentalhealth.supportquerymentalhealth-custom-3",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "Here is a link to where you can talk to people about your situation https://community.themix.org.uk/"
+          "speech": "Hey,  take a look at our health and well being forum at https://community.themix.org.uk/categories/health-wellbeing"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,7 +28,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541831087,
+  "lastUpdate": 1541839331,
   "fallbackIntent": false,
   "events": []
 }

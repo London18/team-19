@@ -1,23 +1,23 @@
 {
-  "id": "503c6e81-a308-44fe-af50-b9c2e7be303d",
+  "id": "76d0a5ca-ff6b-4162-9c21-775794a58ffb",
   "parentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
   "rootParentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "name": "support.query.sex.relationships.forum",
-  "auto": true,
+  "name": "support.query.sex.relationships - fallback",
+  "auto": false,
   "contexts": [
     "supportquerysexrelationships-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "supportquerysexrelationships.supportquerysexrelationships-custom",
+      "action": "supportquerysexrelationships.supportquerysexrelationships-fallback",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": []
+          "speech": "Please try that again, I don\u0027t quite understand."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -27,7 +27,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541832294,
-  "fallbackIntent": false,
+  "lastUpdate": 1541832462,
+  "fallbackIntent": true,
   "events": []
 }

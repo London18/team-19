@@ -1,7 +1,7 @@
 {
-  "id": "214c447c-65f7-4850-abd9-d13d8070c487",
-  "parentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
-  "rootParentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "id": "116cd951-8088-48e5-aa86-0fd35799f786",
+  "parentId": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
+  "rootParentId": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
   "name": "support.query.mental.health.support",
   "auto": true,
   "contexts": [
@@ -12,36 +12,13 @@
     {
       "resetContexts": false,
       "action": "supportquerymentalhealth.supportquerymentalhealth-custom",
-      "affectedContexts": [
-        {
-          "name": "supportquerymentalhealthsupport-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
-      "parameters": [
-        {
-          "id": "64590a54-71dc-479a-8219-0296f1a1ad14",
-          "required": false,
-          "dataType": "@sys.number",
-          "name": "number",
-          "value": "$number",
-          "isList": false
-        },
-        {
-          "id": "f582fba2-41a1-4e43-a2c9-ac156cfd9950",
-          "required": false,
-          "dataType": "@sys.number",
-          "name": "number1",
-          "value": "$number1",
-          "isList": false
-        }
-      ],
+      "affectedContexts": [],
+      "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "We will have a real person talk to you shortly, please hold on."
+          "speech": "Please hold, a real person will talk to you very shortly."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -51,7 +28,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541830857,
+  "lastUpdate": 1541838940,
   "fallbackIntent": false,
   "events": []
 }

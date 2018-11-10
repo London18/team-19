@@ -1,24 +1,18 @@
 {
-  "id": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "name": "support.query.sex.relationships",
+  "id": "5a034e24-ddd7-4e0c-80e3-2b41c47060fa",
+  "name": "support.query.drink.drugs",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [
-        {
-          "name": "supportquerysexrelationships-followup",
-          "parameters": {},
-          "lifespan": 2
-        }
-      ],
+      "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": "Sounds like you have some issues with your relationships, how do you want to get help?"
+          "speech": []
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541839420,
+  "lastUpdate": 1541838523,
   "fallbackIntent": false,
   "events": []
 }

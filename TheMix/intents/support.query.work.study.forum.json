@@ -1,16 +1,16 @@
 {
-  "id": "9b8d88fd-5a25-4bb2-99ff-c3ea332cc2e7",
-  "parentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "rootParentId": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "name": "support.query.sex.relationships - custom",
+  "id": "8f74be8d-3404-4711-bac6-a5dbe32332b5",
+  "parentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "rootParentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "name": "support.query.work.study.forum",
   "auto": true,
   "contexts": [
-    "supportquerysexrelationships-followup"
+    "supportqueryworkstudy-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "supportquerysexrelationships.supportquerysexrelationships-custom",
+      "action": "supportqueryworkstudy.supportqueryworkstudy-custom",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
@@ -27,7 +27,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1508189124811,
+  "lastUpdate": 1541833019,
   "fallbackIntent": false,
   "events": []
 }

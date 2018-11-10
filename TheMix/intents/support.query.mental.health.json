@@ -1,5 +1,5 @@
 {
-  "id": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "id": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
   "name": "support.query.mental.health",
   "auto": true,
   "contexts": [],
@@ -97,7 +97,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "This sounds like a mental health issue. How do you want to get help?"
+          "speech": "This sounds like a health issue. How do you want to get help?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -107,7 +107,7 @@
   "priority": 500000,
   "webhookUsed": true,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541827636,
+  "lastUpdate": 1541838612,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,48 @@
+{
+  "id": "a7bb6894-e238-42f4-9d77-7713640ed36c",
+  "parentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "rootParentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "name": "support.query.work.study.support",
+  "auto": true,
+  "contexts": [
+    "supportqueryworkstudy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "supportqueryworkstudy.supportqueryworkstudy-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1817a144-6340-4669-835e-2de0ea894cc2",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "ac505cd1-f983-458e-98d9-c1f3c732dfdc",
+          "dataType": "@sys.number",
+          "name": "number1",
+          "value": "$number1",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Heya! Our one on one options are as follows: call us for FREE on 0808 808 4994, text THEMIX to 85258 or alternatively sign up for counselling via https://www.themix.org.uk/get-support/speak-to-our-team/the-mix-counselling-service"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541833877,
+  "fallbackIntent": false,
+  "events": []
+}

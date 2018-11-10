@@ -1,14 +1,15 @@
 {
-  "id": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "name": "support.query.sex.relationships",
+  "id": "53b1b14d-b105-4f0b-8c36-1cd0e35deb18",
+  "name": "support.contacts.phone",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
+      "action": "support.contacts.phone",
       "affectedContexts": [
         {
-          "name": "supportquerysexrelationships-followup",
+          "name": "support-contacts",
           "parameters": {},
           "lifespan": 2
         }
@@ -18,7 +19,10 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Sounds like you have some issues with your relationships, how do you want to get help?"
+          "speech": [
+            "Call us free at 0808 808 4994 !",
+            "0808 808 4994 is phone number, don\u0027t hesitate!"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541839420,
+  "lastUpdate": 1541837824,
   "fallbackIntent": false,
   "events": []
 }

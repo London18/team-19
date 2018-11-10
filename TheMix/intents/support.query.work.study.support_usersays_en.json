@@ -1,0 +1,198 @@
+[
+  {
+    "id": "aa5b3a55-5531-46ba-aa1d-ed4b49f86062",
+    "data": [
+      {
+        "text": "counsellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "90c25422-a1f7-4426-ab62-ace3abc60402",
+    "data": [
+      {
+        "text": "counsel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "981f0bb9-89ca-4bc1-a7b9-1d6febb11ce7",
+    "data": [
+      {
+        "text": "I want to be counselled",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "9d99d9a4-ccb7-45e8-ad6c-bc7ba8232f93",
+    "data": [
+      {
+        "text": "I want a counsellor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "ab3a5502-5f89-412a-bf45-720864830970",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "8b12d7a4-0a3a-429d-950b-1fb0d07a7852",
+    "data": [
+      {
+        "text": "one on ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "0b8b42f0-2327-4557-b4eb-6c38961fc2bb",
+    "data": [
+      {
+        "text": "I want a one on ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "4564a796-24af-4f1a-aa35-0131deb2d44e",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "alias": "number1",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "05df7086-a9d0-484c-adec-006e8347ff2c",
+    "data": [
+      {
+        "text": "I would like to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "0deea508-e19a-41f2-8295-a796f59deb92",
+    "data": [
+      {
+        "text": "get me someone to talk to",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "48902284-aad7-44a7-bdf1-02c049cec1e5",
+    "data": [
+      {
+        "text": "real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "67607e5e-c7b7-4a69-a715-f0e81f420f4b",
+    "data": [
+      {
+        "text": "i want to talk to a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  },
+  {
+    "id": "aae94e09-3b69-49c3-86c4-58eb5a44c073",
+    "data": [
+      {
+        "text": "i want to talk to someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541833877
+  }
+]

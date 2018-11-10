@@ -17,7 +17,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": []
+          "speech": "Hold on, a person will be with you shortly..."
         }
       ],
       "defaultResponsePlatforms": {},
@@ -27,7 +27,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541831392,
+  "lastUpdate": 1541836799,
   "fallbackIntent": false,
   "events": []
 }

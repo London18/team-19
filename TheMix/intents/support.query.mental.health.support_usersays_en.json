@@ -1,81 +1,31 @@
 [
   {
-    "id": "7deb20a9-960f-481e-865a-a30796727710",
+    "id": "26564bdd-581e-4b4b-9a8f-cc97d308ee94",
     "data": [
       {
-        "text": "can i speak one to one to someone possibly",
+        "text": "I want help one on one",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541830857
+    "updated": 1541838940
   },
   {
-    "id": "65ff56ae-4332-4ebf-a11a-cd7b2edaf7d0",
-    "data": [
-      {
-        "text": "I NEED TO TALK TO SOMEONE PLEAAAAASE!!!!!",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1541830857
-  },
-  {
-    "id": "f7d1ebea-99c9-443e-a488-abd86f180571",
-    "data": [
-      {
-        "text": "counselling please",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1541830857
-  },
-  {
-    "id": "73395145-8bb9-4ca6-be50-e3f65c8e5dcc",
-    "data": [
-      {
-        "text": "How do I sign up to be counselled",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1541830857
-  },
-  {
-    "id": "bc3efb62-67f5-4a0c-a397-54083736a466",
-    "data": [
-      {
-        "text": "I want to be counselled",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1541830857
-  },
-  {
-    "id": "7c4d2c8a-d4ce-4931-a5a9-da44d4af11c7",
+    "id": "8b7559f9-6fac-4879-8624-5de728d9df5c",
     "data": [
       {
         "text": "1",
-        "alias": "number",
-        "meta": "@sys.number",
+        "meta": "@sys.ignore",
         "userDefined": false
       },
       {
-        "text": " on ",
+        "text": " to ",
         "userDefined": false
       },
       {
         "text": "1",
-        "alias": "number1",
-        "meta": "@sys.number",
+        "meta": "@sys.ignore",
         "userDefined": false
       },
       {
@@ -85,10 +35,46 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541828194
+    "updated": 1541838940
   },
   {
-    "id": "943e33b9-3863-4d25-b500-f7e2e37c014d",
+    "id": "b55347f9-ce33-44fe-bf85-122ddb53ace2",
+    "data": [
+      {
+        "text": "Chat with somebody please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541838940
+  },
+  {
+    "id": "824aaa5d-c8ad-4216-945e-9213b57ee043",
+    "data": [
+      {
+        "text": "I want to chat with a professional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541838940
+  },
+  {
+    "id": "461d0f91-3fee-4b5b-b49d-c9f5c7469851",
+    "data": [
+      {
+        "text": "I want to have a chat session with a real person",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1541838940
+  },
+  {
+    "id": "cc9256af-610b-4bfe-a1b7-09b83a3b7971",
     "data": [
       {
         "text": "I want to talk to a real person",
@@ -97,10 +83,10 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541828194
+    "updated": 1541838940
   },
   {
-    "id": "7d7664f1-3777-4239-883c-9918c79cec20",
+    "id": "c861a5aa-cc76-4f15-9ad0-c2b58ef3a139",
     "data": [
       {
         "text": "I want ",
@@ -108,8 +94,7 @@
       },
       {
         "text": "1",
-        "alias": "number",
-        "meta": "@sys.number",
+        "meta": "@sys.ignore",
         "userDefined": false
       },
       {
@@ -118,41 +103,46 @@
       },
       {
         "text": "1",
-        "alias": "number1",
-        "meta": "@sys.number",
+        "meta": "@sys.ignore",
         "userDefined": false
       },
       {
-        "text": " help",
+        "text": " support",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541828194
+    "updated": 1541838940
   },
   {
-    "id": "7cfaaa9f-dd7c-4400-adf6-6e9f84ef5247",
+    "id": "6ba22c51-94be-4c61-a5f3-c8e8512355ca",
     "data": [
       {
-        "text": "I want to talk to a person",
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " on ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " support",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1541827001
-  },
-  {
-    "id": "4d8cceab-d136-4be5-bc1f-77d9b3e55031",
-    "data": [
-      {
-        "text": "Support",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1541827001
+    "updated": 1541838940
   }
 ]

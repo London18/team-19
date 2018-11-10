@@ -6,7 +6,13 @@
   "responses": [
     {
       "resetContexts": false,
-      "affectedContexts": [],
+      "affectedContexts": [
+        {
+          "name": "supportqueryworkstudy-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
       "parameters": [
         {
           "id": "c819bcd3-1094-483e-9101-27aef9bd4571",
@@ -29,7 +35,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Visit Work and Study Section"
+          "speech": "It seems like you have a work or study issue. How do you want to get help?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -39,7 +45,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541824982,
+  "lastUpdate": 1541834473,
   "fallbackIntent": false,
   "events": []
 }

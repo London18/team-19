@@ -1,26 +1,24 @@
 {
-  "id": "a57aa251-4a0e-46df-84f8-25b66b1e78a5",
-  "parentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
-  "rootParentId": "af736eb6-e850-4fc0-943a-3bcff7604ba6",
+  "id": "bd64b9e4-64ec-49d3-bccd-4a66175f9516",
+  "parentId": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
+  "rootParentId": "4f31bcee-9ad2-4cfe-99cd-a1301fec33e2",
   "name": "support.query.mental.health.link",
   "auto": true,
   "contexts": [
+    "supportquerymentalhealth-followup",
     "MentalHealth-followup"
   ],
   "responses": [
     {
       "resetContexts": false,
-      "action": "MentalHealth.MentalHealth-next",
+      "action": "supportquerymentalhealth.supportquerymentalhealth-custom-2",
       "affectedContexts": [],
       "parameters": [],
       "messages": [
         {
           "type": 0,
           "lang": "en",
-          "speech": [
-            "Hey! Here it is : https://www.themix.org.uk/mental-health",
-            "Go to https://www.themix.org.uk/mental-health to browse some supportive articles!"
-          ]
+          "speech": "Hey, we have plenty of articles on health and wellbeing here at https://www.themix.org.uk/mental-health"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -30,7 +28,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541831240,
+  "lastUpdate": 1541839274,
   "fallbackIntent": false,
   "events": []
 }

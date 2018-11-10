@@ -1,14 +1,15 @@
 {
-  "id": "fd89b2c3-7069-4e68-917a-fb39b232816b",
-  "name": "support.query.sex.relationships",
+  "id": "c4bb0af6-c10a-4d35-84d2-b1c91e361a6f",
+  "name": "support.contacts.address",
   "auto": true,
   "contexts": [],
   "responses": [
     {
       "resetContexts": false,
+      "action": "support.contacts.address",
       "affectedContexts": [
         {
-          "name": "supportquerysexrelationships-followup",
+          "name": "support-contacts",
           "parameters": {},
           "lifespan": 2
         }
@@ -18,7 +19,10 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Sounds like you have some issues with your relationships, how do you want to get help?"
+          "speech": [
+            "We are here at 100 Victoria Embankment, London, EC4Y 0DH.",
+            "Feel free to visit us at 100 Victoria Embankment, London, EC4Y 0DH"
+          ]
         }
       ],
       "defaultResponsePlatforms": {},
@@ -28,7 +32,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1541839420,
+  "lastUpdate": 1541834994,
   "fallbackIntent": false,
   "events": []
 }

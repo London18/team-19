@@ -1,0 +1,33 @@
+{
+  "id": "24fac3ad-7119-4630-a33c-7ee0f3d095c4",
+  "parentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "rootParentId": "ad36b3aa-4f5e-44b6-bdda-3ff7a2db8f1c",
+  "name": "support.query.work.study - fallback",
+  "auto": false,
+  "contexts": [
+    "supportqueryworkstudy-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "supportqueryworkstudy.supportqueryworkstudy-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please try that again, I don\u0027t quite understand."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1541832485,
+  "fallbackIntent": true,
+  "events": []
+}
