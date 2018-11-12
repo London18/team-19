@@ -19,7 +19,7 @@ George Tillo
 
 **Organization**:  The Mix
 
-**Website**: https://www.themix.org.uk/
+**Website**: [https://www.themix.org.uk/](https://www.themix.org.uk/)
 
 **Twitter**: [themixUK](https://twitter.com/themixuk)
 
