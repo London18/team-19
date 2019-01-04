@@ -1,6 +1,6 @@
 var apiai = require('apiai');
 
-var app = apiai('');
+var app = apiai('REMOVED');
 
 var getRes = function(query) {
 	var request = app.textRequest(query, {
